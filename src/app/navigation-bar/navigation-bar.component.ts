@@ -9,7 +9,4 @@ import { Component } from '@angular/core';
 })
 export class NavigationBarComponent {
   
-  text(){
-    console.log('Hi mom!');
-  }
 }
